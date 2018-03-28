@@ -1,3 +1,38 @@
-## Welcome to the home page of the aSSiST project
+## aSSIsT: Secure Software for the Internet of Things
 
-aSSiST is a ...
+aSSiST is a five-year project (March 2018 - February 2023) on Cybersecurity
+funded by SSF.
+It brings together researchers from the Department of Information Technology
+of Uppsala University, and of RISE SICS.
+
+### Background
+
+The Internet of Things (IoT) is now becoming an integrated part of our
+society's infrastructure. The IoT includes a large number of small
+embedded devices that are connected to each other and the internet.
+IoT devices act as the interface between the physical and the digital
+world, enabling real-time insights into physical world dynamics. IoT
+systems are being deployed in a range of application domains, including
+factories, hospitals, as well as smart buildings and homes. Swedish industry
+and research has played a leading role in this development: IoT technology
+is an important offering of many Swedish companies, and several key
+technologies, such as Contiki OS, have a leading role in IoT
+system development.
+
+### Challenge
+
+The existing software infrastructure for IoT represents an impressive
+effort to equip small devices with advanced functionality. Now that the
+IoT revolution is here, society and industry face the challenge to use
+this software basis for building systems with the highest levels of
+security and safety.
+
+### Goal
+
+The goal of aSSIsT is to enable IoT system developers to meet this challenge,
+by providing them with powerful techniques that can detect and remove security
+vulnerabilities in software, ensure that security protocols provide guaranteed
+functionality, which prevent, detect, and mitigate intrusions when they occur.
+These techniques must furthermore be integrated in existing development process
+for IoT systems, by automating them and by focusing on low-power, battery-operated
+wireless devices, such as those found in IoT systems.
