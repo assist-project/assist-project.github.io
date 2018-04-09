@@ -6,6 +6,18 @@ It brings together researchers from the
 [Department of Information Technology](http://www.it.uu.se/)
 of Uppsala University, and from [RISE SICS](https://www.sics.se/).
 
+### Open Positions:
+
+- 1 Post-Doctoral Position
+- 3 PhD positions
+
+on Techniques for Detecting and Removing Security Vulnerabilities in Software.
+The topic for the positions is to develop techniques for detecting and removing security vulnerabilities in software, and applying these techniques in software for IoT devices.
+You are welcome to submit your application no later than 2018-04-23, through the full announcement:
+- for Post-Doctoral position (UFV-PA 2018/1007) [here](http://uu.se/en/about-uu/join-us/details/?positionId=200110)
+- For PhD positions (UFV-PA 2018/955) [here](http://uu.se/en/about-uu/join-us/details/?positionId=198569)
+
+
 ### Background
 
 The Internet of Things (IoT) is now becoming an integrated part of our
