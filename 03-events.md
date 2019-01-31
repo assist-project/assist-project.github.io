@@ -13,4 +13,4 @@ permalink: /events/
 |16/10/2018    | Room 4:306, ITC, Uppsala University                   |  aSSIsT Project meeting |
 |27/5/2018     | Room 19:204, ITC, Uppsala University                  |  aSSIsT Kick-off meeting |
 
-[RISESECDAY2018]: https://app.bwz.se/ri/b/v?event=281&ucrc=7D8A2BD5
+[RISESECDAY2018]: https://www.sics.se/events/rise-sics-and-ericsson-security-day-2018
