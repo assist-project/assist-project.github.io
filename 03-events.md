@@ -5,9 +5,11 @@ permalink: /events/
 ---
 
 ### 2019
+
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
-|27-30/01/2019 | Ruhr University Bochum, Technical University Dortmund | Research meeting    |
+|27-30/01/2019 | Ruhr University Bochum, Technical University Dortmund | Research meeting for arranging future collaboration   |
+
 
 ### 2018
 
