@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Positions
+title: Open Positions
 permalink: /positions/
 ---
 
