@@ -21,4 +21,4 @@ permalink: /events/
 |27/5/2018     | Room 19:204, ITC, Uppsala University                  |  aSSIsT Kick-off meeting |
 
 [RISESECDAY2018]: https://www.sics.se/events/rise-sics-and-ericsson-security-day-2018
-[AGENDA190429]: https://user.it.uu.se/~bengt/aSSIsT/190429-agenda.html
+[AGENDA190429]: http://user.it.uu.se/~bengt/aSSIsT/190429-agenda.html
