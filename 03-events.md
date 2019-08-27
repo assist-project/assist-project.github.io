@@ -7,11 +7,11 @@ permalink: /events/
 ### 2019
 
 | Date          | Location                                   | Topic                                                        |
-|-----------|------------------6--------------------------|--------------------------------------------------------------|
-|16/06/2019    | KTH CAMPUS                   | [SSIoT 2019 - IEEE EuroS&P Workshop on Software Security for Internet of Things][SSIOT2019] | 
-|24/05/2019    | RISE SICS                   | aSSIsT Reference group meeting |
-|29/04/2019    | Room 4:306, ITC, Uppsala University                   | [aSSIsT Project meeting][AGENDA190429] |
-|27-30/01/2019 | Ruhr University Bochum, Technical University Dortmund | Research meeting for arranging future collaboration   |
+|-----------|--------------------------------------------|--------------------------------------------------------------|
+|16/06/2019    | KTH CAMPUS                                               | [SSIoT 2019 - IEEE EuroS&P Workshop on Software Security for Internet of Things][SSIOT2019] |
+|24/05/2019    | RISE SICS                                                | aSSIsT Reference group meeting |
+|29/04/2019    | Room 4:306, ITC, Uppsala University                      | [aSSIsT Project meeting][AGENDA190429] |
+|27-30/01/2019 | Ruhr University Bochum, Technical University Dortmund    | Research meeting for arranging future collaboration   |
 
 
 ### 2018
