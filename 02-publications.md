@@ -12,6 +12,6 @@ permalink: /publications/
   
 ### 2019
 
-- Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019 2018. ([PDF][ahmed/lctes19dice])
+- Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19dice])
 
   [ahmed/lctes19dice]: https://home.deib.polimi.it/mottola/papers/ahmed19efficient.pdf "Preprint"
