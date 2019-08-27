@@ -15,3 +15,7 @@ permalink: /publications/
 - Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19dice])
 
   [ahmed/lctes19dice]: https://home.deib.polimi.it/mottola/papers/ahmed19efficient.pdf "Preprint"
+  
+  - Saad Ahmed, Abu Bhakar, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **The Betrayal of Constant Power × Time: Finding the Missing Joules of Transiently-powered Computers.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19epic])
+
+  [ahmed/lctes19epic]: https://home.deib.polimi.it/mottola/papers/ahmed19betrayal.pdf "Preprint"
