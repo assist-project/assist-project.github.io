@@ -19,3 +19,7 @@ permalink: /publications/
 - Saad Ahmed, Abu Bhakar, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **The Betrayal of Constant Power × Time: Finding the Missing Joules of Transiently-powered Computers.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19epic])
 
   [ahmed/lctes19epic]: https://home.deib.polimi.it/mottola/papers/ahmed19betrayal.pdf "Preprint"
+  
+- Andrea Maioli, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **On Intermittence Bugs in the Battery-less Internet of Things.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][maioli/lctes19sceptic])
+
+  [ahmed/lctes19sceptic]: https://home.deib.polimi.it/mottola/papers/maioli19sceptic.pdf "Preprint"
