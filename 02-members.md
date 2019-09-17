@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-permalink: /publications/
+permalink: /members/
 ---
 
 ### Uppsala University
