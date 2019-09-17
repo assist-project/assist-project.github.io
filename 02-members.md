@@ -16,6 +16,6 @@ permalink: /publications/
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
-[ShahidRazaHomepage]: http://user.it.uu.se/~kostis/
-[LucaMottolaHomepage]: http://user.it.uu.se/~kostis/
+[ShahidRazaHomepage]: https://www.sics.se/people/shahid-raza
+[LucaMottolaHomepage]: https://www.sics.se/people/luca-mottola
 
