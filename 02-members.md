@@ -7,9 +7,9 @@ permalink: /members/
 ### Uppsala University
 
 - [Bengt Jonsson][BengtJonssonHomepage] (Project Leader)
-- [Kostis Sagonas][KostSagonasHomepage] (Principal Investigator)
+- [Kostis Sagonas][KostisSagonasHomepage] (Principal Investigator)
 
-*** RISE SICs
+### RISE SICs
 
 - [Shahid Raza][ShahidRazaHomepage] (Principal Investigator)
 - [Luca Mottola][LucaMottolaHomepage] (Principal Investigator) 
