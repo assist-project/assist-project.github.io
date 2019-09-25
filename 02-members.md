@@ -25,7 +25,7 @@ permalink: /members/
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
-[PaulFiterauHomepage]; http://www.it.uu.se/katalog/paufi493
+[PaulFiterauHomepage]: http://www.it.uu.se/katalog/paufi493
 [ClementPonceletHomepage]: http://www.it.uu.se/katalog/clepo169
 [HoomanAsadianHomepage]: http://www.it.uu.se/katalog/hooas351
 [SarbojitDasHomepage]: http://www.it.uu.se/katalog/sarda436
