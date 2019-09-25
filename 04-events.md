@@ -8,6 +8,8 @@ permalink: /events/
 
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
+|15/10/2019    | RISE SICS                                                | [aSSIsT Project meeting][AGENDA191015] |
+|02/10/2019    | Färögatan 33, 164 51 Kista                               | [RISE SICS and Ericsson Security Day 2019][RISESECDAY2019]   |
 |16/06/2019    | KTH CAMPUS                                               | [SSIoT 2019 - IEEE EuroS&P Workshop on Software Security for Internet of Things][SSIOT2019] |
 |24/05/2019    | RISE SICS                                                | aSSIsT Reference group meeting |
 |29/04/2019    | Room 4:306, ITC, Uppsala University                      | [aSSIsT Project meeting][AGENDA190429] |
@@ -25,3 +27,5 @@ permalink: /events/
 [SSIOT2019]: http://www.cse.chalmers.se/~russo/ssiot19/
 [RISESECDAY2018]: https://www.sics.se/events/rise-sics-and-ericsson-security-day-2018
 [AGENDA190429]: http://user.it.uu.se/~bengt/aSSIsT/190429-agenda.html
+[RISESECDAY2019]: https://app.bwz.se/ri/b/v?formresponse=46804&otype=60&sendmail=True&ucrc=4F5AB0232D
+[AGENDA191015]: http://user.it.uu.se/~bengt/aSSIsT/191015-agenda.html
