@@ -18,6 +18,7 @@ permalink: /members/
 
 - [Shahid Raza][ShahidRazaHomepage] (Principal Investigator)
 - [Luca Mottola][LucaMottolaHomepage] (Principal Investigator) 
+- [Nicolas Tsiftes][NicolasTsiftesHomepage] (Senior Researcher) 
 - [Martina Brachmann][MartinaBrachmannHomepage] (Post Doctoral Researcher)
 - Sileshi Demesie Yalew (Post Doctoral Researcher)
 - Anum Khurshid (Ph.D. Student)
@@ -32,5 +33,6 @@ permalink: /members/
 [MagnusLangHomepage]: http://www.it.uu.se/katalog/magla262
 [ShahidRazaHomepage]: https://www.ri.se/shahid-raza
 [LucaMottolaHomepage]: https://www.ri.se/luca-mottola
+[NicolasTsiftesHomepage]: https://www.ri.se/nicolas-tsiftes
 [MartinaBrachmannHomepage]: https://martinabr.github.io/
 
