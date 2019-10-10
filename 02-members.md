@@ -8,6 +8,7 @@ permalink: /members/
 
 - [Bengt Jonsson][BengtJonssonHomepage] (Project Leader)
 - [Kostis Sagonas][KostisSagonasHomepage] (Principal Investigator)
+- [Mohamed Faouzi Atig][AtigHomepage] (Senior Researcher)
 - [Paul Fiterau-Brostean][PaulFiterauHomepage] (Post Doctoral Researcher)
 - [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
 - [Hooman Asadian][HoomanAsadianHomepage] (Ph.D. Student)
@@ -26,6 +27,7 @@ permalink: /members/
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
+[AtigHomepage]: https://www.it.uu.se/katalog/mohat117/atig
 [PaulFiterauHomepage]: http://www.it.uu.se/katalog/paufi492
 [ClementPonceletHomepage]: http://www.it.uu.se/katalog/clepo169
 [HoomanAsadianHomepage]: http://www.it.uu.se/katalog/hooas351
