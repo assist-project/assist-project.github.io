@@ -12,7 +12,11 @@ permalink: /publications/
   
 ### 2019
 
-- Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19dice])
+- Adriano Branco, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **Intermittent Asynchronous Peripheral Operations.** _17th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2019. ([PDF][branco/sensys19intermittent])
+
+  [branco/sensys19intermittent]: https://home.deib.polimi.it/mottola/papers/branco19intermittent.pdf "Preprint"
+  
+  - Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19dice])
 
   [ahmed/lctes19dice]: https://home.deib.polimi.it/mottola/papers/ahmed19efficient.pdf "Preprint"
   
