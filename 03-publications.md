@@ -27,3 +27,8 @@ permalink: /publications/
 - Andrea Maioli, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **On Intermittence Bugs in the Battery-less Internet of Things.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][maioli/lctes19sceptic])
 
   [maioli/lctes19sceptic]: https://home.deib.polimi.it/mottola/papers/maioli19sceptic.pdf "Preprint"
+
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bengt Jonsson, Magnus Lång, Tuan Phong Ngo, and Konstantinos Sagonas. **Optimal stateless model checking for reads-from equivalence under sequential consistency.** _PACMPL 3(OOPSLA): 150:1-150:29_. November 2019. ([PDF][AAJLNS19])
+
+  [AAJLNS19]: http://user.it.uu.se/~bengt/Papers/Full/oopsla19.pdf
+
