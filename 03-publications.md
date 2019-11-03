@@ -28,7 +28,7 @@ permalink: /publications/
 
   [maioli/lctes19sceptic]: https://home.deib.polimi.it/mottola/papers/maioli19sceptic.pdf "Preprint"
 
-- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bengt Jonsson, Magnus Lång, Tuan Phong Ngo, and Konstantinos Sagonas. **Optimal stateless model checking for reads-from equivalence under sequential consistency.** _PACMPL 3(OOPSLA): 150:1-150:29_. November 2019. ([PDF][AAJLNS19])
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bengt Jonsson, Magnus Lång, Tuan Phong Ngo, and Konstantinos Sagonas. **Optimal stateless model checking for reads-from equivalence under sequential consistency.** _PACMPL 3(OOPSLA): 150:1-150:29_. October 2019. ([PDF][AAJLNS19])
 
   [AAJLNS19]: http://user.it.uu.se/~bengt/Papers/Full/oopsla19.pdf
 
