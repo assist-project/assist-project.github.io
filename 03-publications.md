@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2020
+
+- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Kostis Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing.** 29th USENIX Security Symposium, accepted for publication. 
+
 ### 2019
 
 - Adriano Branco, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **Intermittent Asynchronous Peripheral Operations.** _17th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2019. ([PDF][branco/sensys19intermittent])
