@@ -6,9 +6,10 @@ permalink: /publications/
 
 ### 2020
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing.** _29th USENIX Security Symposium (USENIX Security 20)_, August 2020. ([PDF][DTLS@USENIX-20])
+- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing.** _29th USENIX Security Symposium (USENIX Security 20)_, August 2020, USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf])
 
  [DTLS@USENIX-20]: https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean
+ [DTLS@USENIX-20.pdf]: https://www.usenix.org/system/files/sec20fall_fiterau-brostean_prepub.pdf "Prepublication"
 
 ### 2019
 
