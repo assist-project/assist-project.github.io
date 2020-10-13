@@ -6,7 +6,11 @@ permalink: /publications/
 
 ### 2020
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing.** _29th USENIX Security Symposium (USENIX Security 20)_, August 2020, USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf])
+- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, LNCS Volume 12302. October 2020. ([DOI][ATVA20])
+
+  [ATVA20]: https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_21
+
+- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing**. _29th USENIX Security Symposium (USENIX Security 20)_, August 2020, USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf])
 
  [DTLS@USENIX-20]: https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean
  [DTLS@USENIX-20.pdf]: https://www.usenix.org/system/files/sec20fall_fiterau-brostean_prepub.pdf "Prepublication"
