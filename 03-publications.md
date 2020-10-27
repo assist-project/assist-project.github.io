@@ -6,11 +6,16 @@ permalink: /publications/
 
 ### 2020
 
-- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, LNCS Volume 12302. October 2020. ([DOI][ATVA20])
+- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20])
+
+  [SLE20]: https://doi.org/10.1145/3426425.3426946
+
+- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [Video][Video@ATVA20])
 
   [ATVA20]: https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_21
+  [Video@ATVA20]: https://drive.google.com/file/d/1uSjkiqcZ6qY8fb0XzOgsxRdXJG1vQupG/view?usp=sharing
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing**. _29th USENIX Security Symposium (USENIX Security 20)_, August 2020, USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf])
+- Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing**. _29th USENIX Security Symposium (USENIX Security 20)_, August 2020. USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf])
 
  [DTLS@USENIX-20]: https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean
  [DTLS@USENIX-20.pdf]: https://www.usenix.org/system/files/sec20fall_fiterau-brostean_prepub.pdf "Prepublication"
@@ -21,7 +26,7 @@ permalink: /publications/
 
   [branco/sensys19intermittent]: https://home.deib.polimi.it/mottola/papers/branco19intermittent.pdf "Preprint"
 
-- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bengt Jonsson, Magnus Lång, Tuan Phong Ngo, and Konstantinos Sagonas. **Optimal stateless model checking for reads-from equivalence under sequential consistency.** _PACMPL 3(OOPSLA): 150:1-150:29_. October 2019. ([DOI][AAJLNS19])
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bengt Jonsson, Magnus Lång, Tuan Phong Ngo, and Konstantinos Sagonas. **Optimal stateless model checking for reads-from equivalence under sequential consistency**. _PACMPL 3(OOPSLA): 150:1-150:29_. October 2019. ([DOI][AAJLNS19])
 
   [AAJLNS19]: https://doi.org/10.1145/3360576
 
