@@ -6,9 +6,10 @@ permalink: /publications/
 
 ### 2020
 
-- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20])
+- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
 
   [SLE20]: https://doi.org/10.1145/3426425.3426946
+  [Video@SLE20]: https://youtu.be/rp1LSHt6Sm4
 
 - Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [Video][Video@ATVA20])
 
