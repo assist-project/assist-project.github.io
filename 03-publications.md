@@ -6,7 +6,12 @@ permalink: /publications/
 
 ### 2020
 
-- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. Best Paper Award and Best Pitch Video Award. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20b])
+- Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, and Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20])
+
+  [afanasov/sensys20deployment]: https://mottola.faculty.polimi.it/papers/afanasov20batteryless.pdf "Preprint"
+  [Video@ENSSYS20b]: https://youtu.be/RpKsXLTlnxU
+
+- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. _Best Paper Award and Best Pitch Video Award_. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20b])
 
   [maioli/enssys20intermittence]: https://mottola.faculty.polimi.it/papers/maioli20intermittence.pdf "Preprint"
   [Video@ENSSYS20b]: https://youtu.be/mHLRyG54I6w
