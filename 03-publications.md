@@ -6,7 +6,12 @@ permalink: /publications/
 
 ### 2020
 
-- Hafiz Areeb Asad, Erik Wouters, Naveed Bhatti, Luca Mottola, and Thiemo Voigt. **On Securing Persistent State in Intermittent Computing.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. ([PDF][asad/enssys20secure], [Pitch Talk][Video@ENSSYS20a])
+- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. Best Paper Award and Best Pitch Video Award. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20b])
+
+  [maioli/enssys20intermittence]: https://mottola.faculty.polimi.it/papers/maioli20intermittence.pdf "Preprint"
+  [Video@ENSSYS20b]: https://youtu.be/mHLRyG54I6w
+
+- Hafiz Areeb Asad, Erik Wouters, Naveed Bhatti, Luca Mottola, and Thiemo Voigt. **On Securing Persistent State in Intermittent Computing.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. ([PDF][asad/enssys20secure], [Teaser Video][Video@ENSSYS20a])
 
   [asad/enssys20secure]: https://mottola.faculty.polimi.it/papers/asad20security.pdf "Preprint"
   [Video@ENSSYS20a]: https://youtu.be/mrJnxQBEgr0
