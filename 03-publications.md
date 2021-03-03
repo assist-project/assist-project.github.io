@@ -6,21 +6,24 @@ permalink: /publications/
 
 ### 2021
 
-- Andrea Maioli, Luca Mottola, Junaid Siddiqui, and Hamad Alizai. **Discovering the Hidden Anomalies of Intermittent Computing.** _18th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2021. ([PDF][maioli/ewsn21discovering])
+- Andrea Maioli, Luca Mottola, Junaid Siddiqui, and Hamad Alizai. **Discovering the Hidden Anomalies of Intermittent Computing.** _18th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2021. ([PDF][maioli/ewsn21discovering], [Talk Video][Video@EWSN21])
 
   [maioli/ewsn21discovering]: https://mottola.faculty.polimi.it/papers/maioli21discovering.pdf "Preprint"
+  [Video@EWSN21]: https://youtu.be/5s-RlFdFkY4
 
 ### 2020
 
-- Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, and Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20])
+- Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, and Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20Teaser], [Talk Video][Video@SENSYS20Talk])
 
   [afanasov/sensys20deployment]: https://mottola.faculty.polimi.it/papers/afanasov20batteryless.pdf "Preprint"
-  [Video@SENSYS20]: https://youtu.be/RpKsXLTlnxU
+  [Video@SENSYS20Teaser]: https://youtu.be/RpKsXLTlnxU
+  [Video@SENSYS20Talk]: https://youtu.be/Kx7BON03AZ4
 
-- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. _Best Paper Award and Best Pitch Video Award_. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20b])
+- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. _Best Paper Award and Best Pitch Video Award_. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20bPitch], [Talk Video][Video@ENSSYS20bTalk] )
 
   [maioli/enssys20intermittence]: https://mottola.faculty.polimi.it/papers/maioli20intermittence.pdf "Preprint"
-  [Video@ENSSYS20b]: https://youtu.be/mHLRyG54I6w
+  [Video@ENSSYS20bPitch]: https://youtu.be/mHLRyG54I6w
+  [Video@ENSSYS20bTalk]: https://youtu.be/Yb1KlyzqWMk
 
 - Hafiz Areeb Asad, Erik Wouters, Naveed Bhatti, Luca Mottola, and Thiemo Voigt. **On Securing Persistent State in Intermittent Computing.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. ([PDF][asad/enssys20secure], [Teaser Video][Video@ENSSYS20a])
 
