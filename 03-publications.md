@@ -19,7 +19,7 @@ permalink: /publications/
   [Video@SENSYS20Teaser]: https://youtu.be/RpKsXLTlnxU
   [Video@SENSYS20Talk]: https://youtu.be/Kx7BON03AZ4
 
-- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. _Best Paper Award and Best Pitch Video Award_. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20bPitch], [Talk Video][Video@ENSSYS20bTalk] )
+- Andrea Maioli and Luca Mottola. **Intermittence Anomalies not Considered Harmful.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. _Best Paper Award and Best Pitch Video Award_. ([PDF][maioli/enssys20intermittence], [Pitch Video][Video@ENSSYS20bPitch], [Talk Video][Video@ENSSYS20bTalk])
 
   [maioli/enssys20intermittence]: https://mottola.faculty.polimi.it/papers/maioli20intermittence.pdf "Preprint"
   [Video@ENSSYS20bPitch]: https://youtu.be/mHLRyG54I6w
@@ -29,10 +29,6 @@ permalink: /publications/
 
   [asad/enssys20secure]: https://mottola.faculty.polimi.it/papers/asad20security.pdf "Preprint"
   [Video@ENSSYS20a]: https://youtu.be/mrJnxQBEgr0
-
-- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2020. ([PDF][ahmed/ewsn20dvfs])
-
-  [ahmed/ewsn20dvfs]: https://mottola.faculty.polimi.it/papers/ahmed20dvfs.pdf "Preprint"
 
 - Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
 
@@ -46,10 +42,14 @@ permalink: /publications/
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Robert Merget, Joeri de Ruiter, Konstantinos Sagonas, and Juraj Somorovsky. **Analysis of DTLS Implementations Using Protocol State Fuzzing**. _29th USENIX Security Symposium (USENIX Security 20)_, August 2020. USENIX Association. ([@USENIX][DTLS@USENIX-20], [PDF][DTLS@USENIX-20.pdf], [Video][Video@USENIX-20], [Blog post about CVE-2020-2655][CVE-2020-2655-blog])
 
- [DTLS@USENIX-20]: https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean
- [DTLS@USENIX-20.pdf]: https://www.usenix.org/system/files/sec20fall_fiterau-brostean_prepub.pdf "Prepublication"
- [Video@USENIX-20]: https://youtu.be/GSCFqDVCwB0
- [CVE-2020-2655-blog]: https://web-in-security.blogspot.com/2020/01/cve-2020-2655-jsse-client.html
+  [DTLS@USENIX-20]: https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean
+  [DTLS@USENIX-20.pdf]: https://www.usenix.org/system/files/sec20fall_fiterau-brostean_prepub.pdf "Prepublication"
+  [Video@USENIX-20]: https://youtu.be/GSCFqDVCwB0
+  [CVE-2020-2655-blog]: https://web-in-security.blogspot.com/2020/01/cve-2020-2655-jsse-client.html
+
+- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2020. ([PDF][ahmed/ewsn20dvfs])
+
+  [ahmed/ewsn20dvfs]: https://mottola.faculty.polimi.it/papers/ahmed20dvfs.pdf "Preprint"
 
 ### 2019
 
