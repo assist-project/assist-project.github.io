@@ -6,9 +6,13 @@ permalink: /publications/
 
 ### 2020
 
-- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2020. ([PDF][ahmed/ewsn10dvfs])
+- Hafiz Areeb Asad, Erik Wouters, Naveed Bhatti, Luca Mottola, and Thiemo Voigt. **On Securing Persistent State in Intermittent Computing.** _8th ACM International Workshop on Energy Harvesting and Energy-neutral Sensing Systems (ENSSYS - colocated with ACM SENSYS)_. November 2020. ([PDF][asad/enssys20secure])
 
-  [ahmed/ewsn10dvfs]: https://mottola.faculty.polimi.it/papers/ahmed20dvfs.pdf "Preprint"
+  [asad/enssys20secure]: https://mottola.faculty.polimi.it/papers/asad20security.pdf "Preprint"
+
+- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2020. ([PDF][ahmed/ewsn20dvfs])
+
+  [ahmed/ewsn20dvfs]: https://mottola.faculty.polimi.it/papers/ahmed20dvfs.pdf "Preprint"
 
 - Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
 
