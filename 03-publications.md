@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2021
+
+- Andrea Maioli, Luca Mottola, Junaid Siddiqui, and Hamad Alizai. **Discovering the Hidden Anomalies of Intermittent Computing.** _18th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2021. ([PDF][maioli/ewsn21discovering])
+
+  [maioli/ewsn21discovering]: https://mottola.faculty.polimi.it/papers/maioli21discovering.pdf "Preprint"
+
 ### 2020
 
 - Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, and Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20])
