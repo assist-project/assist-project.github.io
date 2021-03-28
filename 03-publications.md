@@ -35,6 +35,10 @@ permalink: /publications/
   [SLE20]: https://doi.org/10.1145/3426425.3426946
   [Video@SLE20]: https://youtu.be/rp1LSHt6Sm4
 
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janku, Hsin-Hung Lin, Lukás Holík, and Wei-Cheng Wu. **Efficient handling of string-number conversion**. _41st ACM SIGPLAN Int. Conf. on  Programming Language Design and Implementation (PLDI 2020)_, June 2020. ACM. ([DOI][PLDI20])
+
+  [PLDI20]: https://doi.org/10.1145/3385412.3386034
+
 - Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [Video][Video@ATVA20])
 
   [ATVA20]: https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_21
