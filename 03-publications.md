@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2022
 
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_, January 2022 (Accepted).
+
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
