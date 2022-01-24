@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2022
+
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
+
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
+
 ### 2021
 
 - Andrea Maioli, Luca Mottola, Junaid Siddiqui, and Hamad Alizai. **Discovering the Hidden Anomalies of Intermittent Computing.** _18th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2021. ([PDF][maioli/ewsn21discovering], [Talk Video][Video@EWSN21])
