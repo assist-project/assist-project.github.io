@@ -10,7 +10,9 @@ permalink: /publications/
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf) [Replication Material][ICST-22-replication-material])
+
+  [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
 ### 2021
 
