@@ -11,7 +11,9 @@ permalink: /publications/
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022.
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
+
+  [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted in January 2022.  To appear.
 
