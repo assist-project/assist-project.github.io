@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2022
 
+- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, October 2022. To appear. ([Preprint with Proofs](http://arxiv.org/abs/2208.09259))
+
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
