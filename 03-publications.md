@@ -8,17 +8,23 @@ permalink: /publications/
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, October 2022. To appear. ([Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
+- Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering_, October 2022. To appear. ([DOI](https://doi.org/10.1145/3551349.3556946), [Artifact Repository][So-Many-Fuzzers-Artifact])
+
+  [So-Many-Fuzzers-Artifact]: https://github.com/assist-project/so-many-fuzzers-artifact
+
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Kostis Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides])
+
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer.** _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST)_. April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
-- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted in January 2022.  To appear.
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted in January 2022.
 
 ### 2021
 
