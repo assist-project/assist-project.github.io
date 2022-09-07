@@ -12,7 +12,7 @@ permalink: /publications/
 
   [So-Many-Fuzzers-Artifact]: https://github.com/assist-project/so-many-fuzzers-artifact
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Kostis Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. Presentation at the _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides])
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Kostis Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. Presentation at the _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides](files/klee2022-presentation.pdf))
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
