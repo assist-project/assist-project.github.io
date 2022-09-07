@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### 2022
 
-- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, October 2022. To appear. ([Preprint with Proofs](http://arxiv.org/abs/2208.09259))
+- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. To appear. ([Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
-- Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering_, October 2022. To appear. ([DOI](https://doi.org/10.1145/3551349.3556946), [Artifact Repository][So-Many-Fuzzers-Artifact])
+- Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)_, October 2022. To appear. ([DOI](https://doi.org/10.1145/3551349.3556946), [Artifact Repository][So-Many-Fuzzers-Artifact])
 
   [So-Many-Fuzzers-Artifact]: https://github.com/assist-project/so-many-fuzzers-artifact
 
@@ -16,11 +16,11 @@ permalink: /publications/
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 70-81, April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 456-458, April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
@@ -52,12 +52,12 @@ permalink: /publications/
   [asad/enssys20secure]: https://mottola.faculty.polimi.it/papers/asad20security.pdf "Preprint"
   [Video@ENSSYS20a]: https://youtu.be/mrJnxQBEgr0
 
-- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
+- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, pages 253-269, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
 
   [SLE20]: https://doi.org/10.1145/3426425.3426946
   [Video@SLE20]: https://youtu.be/rp1LSHt6Sm4
 
-- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janku, Hsin-Hung Lin, Lukás Holík, and Wei-Cheng Wu. **Efficient handling of string-number conversion**. _41st ACM SIGPLAN Int. Conf. on  Programming Language Design and Implementation (PLDI 2020)_, June 2020. ACM. ([DOI][PLDI20])
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janku, Hsin-Hung Lin, Lukás Holík, and Wei-Cheng Wu. **Efficient handling of string-number conversion**. _41st ACM SIGPLAN Int. Conf. on  Programming Language Design and Implementation (PLDI 2020)_, pages 943-957, June 2020. ACM. ([DOI][PLDI20])
 
   [PLDI20]: https://doi.org/10.1145/3385412.3386034
 
@@ -73,13 +73,13 @@ permalink: /publications/
   [Video@USENIX-20]: https://youtu.be/GSCFqDVCwB0
   [CVE-2020-2655-blog]: https://web-in-security.blogspot.com/2020/01/cve-2020-2655-jsse-client.html
 
-- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_. February 2020. ([PDF][ahmed/ewsn20dvfs])
+- Saad Ahmed, Qurat Ul Ain, Junaid Siddiqui, Luca Mottola, and Hamad Alizai. **Intermittent Computing with Dynamic Voltage and Frequency Scaling.** _17th ACM International Conference on Embedded Wireless Systems and Networks (EWSN)_, February 2020. ([PDF][ahmed/ewsn20dvfs])
 
   [ahmed/ewsn20dvfs]: https://mottola.faculty.polimi.it/papers/ahmed20dvfs.pdf "Preprint"
 
 ### 2019
 
-- Adriano Branco, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **Intermittent Asynchronous Peripheral Operations.** _17th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_. November 2019. ([PDF][branco/sensys19intermittent])
+- Adriano Branco, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **Intermittent Asynchronous Peripheral Operations.** _17th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_, November 2019. ([PDF][branco/sensys19intermittent])
 
   [branco/sensys19intermittent]: https://home.deib.polimi.it/mottola/papers/branco19intermittent.pdf "Preprint"
 
@@ -87,21 +87,21 @@ permalink: /publications/
 
   [AAJLNS19]: https://doi.org/10.1145/3360576
 
-- Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19dice])
+- Saad Ahmed, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **Efficient Intermittent Computing with Differential Checkpointing.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_, June 2019. ([PDF][ahmed/lctes19dice])
 
   [ahmed/lctes19dice]: https://home.deib.polimi.it/mottola/papers/ahmed19efficient.pdf "Preprint"
   
-- Saad Ahmed, Abu Bhakar, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **The Betrayal of Constant Power × Time: Finding the Missing Joules of Transiently-powered Computers.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][ahmed/lctes19epic])
+- Saad Ahmed, Abu Bhakar, Naveed Bhatti, Hamad Alizai, Junaid Siddiqui, and Luca Mottola. **The Betrayal of Constant Power × Time: Finding the Missing Joules of Transiently-powered Computers.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_, June 2019. ([PDF][ahmed/lctes19epic])
 
   [ahmed/lctes19epic]: https://home.deib.polimi.it/mottola/papers/ahmed19betrayal.pdf "Preprint"
   
-- Andrea Maioli, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **On Intermittence Bugs in the Battery-less Internet of Things.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_. June 2019. ([PDF][maioli/lctes19sceptic])
+- Andrea Maioli, Luca Mottola, Hamad Alizai, and Junaid Siddiqui. **On Intermittence Bugs in the Battery-less Internet of Things.** _20th ACM International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)_, June 2019. ([PDF][maioli/lctes19sceptic])
 
   [maioli/lctes19sceptic]: https://home.deib.polimi.it/mottola/papers/maioli19sceptic.pdf "Preprint"
 
 ### 2018
 
-- Andreas Löscher and Konstantinos Sagonas. **Automating Targeted Property-Based Testing.** _11th IEEE Conference on Software Testing, Verification and Validation (ICST 2018)_, pages 70-80. April 2018. IEEE Computer Society. ([DOI][atpbt@ICST2018-DOI], [PDF][loscher/atpbt@ICST2018])
+- Andreas Löscher and Konstantinos Sagonas. **Automating Targeted Property-Based Testing.** _11th IEEE Conference on Software Testing, Verification and Validation (ICST 2018)_, pages 70-80, April 2018. IEEE Computer Society. ([DOI][atpbt@ICST2018-DOI], [PDF][loscher/atpbt@ICST2018])
 
   [atpbt@ICST2018-DOI]: https://doi.org/10.1109/ICST.2018.00017
   [loscher/atpbt@ICST2018]: https://proper-testing.github.io/papers/icst2018.pdf "Preprint"
