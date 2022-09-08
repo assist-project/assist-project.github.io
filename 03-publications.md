@@ -16,11 +16,11 @@ permalink: /publications/
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 70-81, April 2022. ([PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 70-81, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00019), [PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 456-458, April 2022. ([PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_. pages 456-458, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00051), [PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
