@@ -8,6 +8,8 @@ permalink: /publications/
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. To appear.
 
+- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. January 2023. To appear. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
+
 ### 2022
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
@@ -29,6 +31,8 @@ permalink: /publications/
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://10.1109/TDSC.2022.3147262))
+
+-  Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
 
 ### 2021
 
