@@ -8,7 +8,9 @@ permalink: /publications/
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. To appear.
 
-- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. January 2023. To appear. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
+
+- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, Number 202952, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
 
 ### 2022
 
@@ -22,6 +24,8 @@ permalink: /publications/
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
+-  Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
+
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 70-81, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00019), [PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
@@ -29,10 +33,6 @@ permalink: /publications/
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 456-458, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00051), [PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
-
-- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://10.1109/TDSC.2022.3147262))
-
--  Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
 
 ### 2021
 
