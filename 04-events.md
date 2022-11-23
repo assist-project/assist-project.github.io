@@ -4,6 +4,14 @@ title: Events
 permalink: /events/
 ---
 
+### 2022
+
+| Date          | Location                                   | Topic                                                        |
+|-----------|--------------------------------------------|--------------------------------------------------------------|
+|21/11/2022    | Zoom                                                | Presentation at CyberNode working group for IoT |
+|16/11/2022    | Room 105150 Ångström building, Uppsala University                   |  aSSIsT Project meeting |
+
+
 ### 2019
 
 | Date          | Location                                   | Topic                                                        |
