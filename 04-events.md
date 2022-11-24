@@ -2,6 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
+permalink: /presentations/
 ---
 
 ### 2022

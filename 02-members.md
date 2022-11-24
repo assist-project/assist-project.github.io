@@ -10,34 +10,42 @@ permalink: /members/
 - [Kostis Sagonas][KostisSagonasHomepage] (Principal Investigator)
 - [Mohamed Faouzi Atig][AtigHomepage] (Senior Researcher)
 - [Paul Fiterau-Brostean][PaulFiterauHomepage] (Post Doctoral Researcher)
-- [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
+- [Sandip Ghosal][SandipGhosalHomepage] (Post Doctoral Researcher)
+- [Rémi Parrot][RemiParrotHomepage] (Post Doctoral Researcher)
 - [Hooman Asadian][HoomanAsadianHomepage] (Ph.D. Student)
 - [Sarbojit Das][SarbojitDasHomepage] (Ph.D. Student)
 - [Magnus Lång][MagnusLangHomepage] (Ph.D. Student)
-- [Andreas Löscher][AndreasLöscherScholar] (Ph.D. Student, graduated)
+- [Fredrik Tåquist][FredrikTaquistHomepage] (Ph.D. Student)
 
 ### RISE
 
 - [Shahid Raza][ShahidRazaHomepage] (Principal Investigator)
 - [Luca Mottola][LucaMottolaHomepage] (Principal Investigator) 
 - [Nicolas Tsiftes][NicolasTsiftesHomepage] (Senior Researcher) 
+- [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
+- [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student)
+
+### Alumni
+- [Andreas Löscher][AndreasLöscherScholar] (Ph.D. Student, graduated)
 - [Martina Brachmann][MartinaBrachmannHomepage] (Post Doctoral Researcher)
 - Sileshi Demesie Yalew (Post Doctoral Researcher)
 - Niclas Finne (Researcher)
-- [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student)
-
+- [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
 [AtigHomepage]: https://www.it.uu.se/katalog/mohat117/atig
 [PaulFiterauHomepage]: http://www.it.uu.se/katalog/paufi492
+[SandipGhosalHomepage]: https://www.it.uu.se/katalog/sangh443
+[RemiParrotHomepage]: https://www.it.uu.se/katalog/rempa665
 [ClementPonceletHomepage]: http://www.it.uu.se/katalog/clepo169
 [HoomanAsadianHomepage]: http://www.it.uu.se/katalog/hooas351
 [SarbojitDasHomepage]: http://www.it.uu.se/katalog/sarda436
 [MagnusLangHomepage]: http://www.it.uu.se/katalog/magla262
-[AndreasLöscherScholar]:  https://scholar.google.com/citations?user=E4LXtaEAAAAJ
+[AndreasLöscherScholar]: https://scholar.google.com/citations?user=E4LXtaEAAAAJ
 [ShahidRazaHomepage]: https://www.ri.se/shahid-raza
 [LucaMottolaHomepage]: https://www.ri.se/luca-mottola
 [NicolasTsiftesHomepage]: https://www.ri.se/nicolas-tsiftes
 [MartinaBrachmannHomepage]: https://martinabr.github.io/
+[ChetnaSinghalHomepage]: https://www.ri.se/en/person/chetna-singhal
 [AnumKhurshidHomepage]: https://www.ri.se/anum-khurshid
