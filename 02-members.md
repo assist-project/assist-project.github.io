@@ -22,6 +22,7 @@ permalink: /members/
 - [Shahid Raza][ShahidRazaHomepage] (Principal Investigator)
 - [Luca Mottola][LucaMottolaHomepage] (Principal Investigator) 
 - [Nicolas Tsiftes][NicolasTsiftesHomepage] (Senior Researcher) 
+- [Thiemo Voigt][ThiemoVoigtHomepage] (Senior Researcher) 
 - [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
 - [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student)
 
@@ -47,6 +48,7 @@ permalink: /members/
 [ShahidRazaHomepage]: https://www.ri.se/shahid-raza
 [LucaMottolaHomepage]: https://www.ri.se/luca-mottola
 [NicolasTsiftesHomepage]: https://www.ri.se/nicolas-tsiftes
+[ThiemoVoigtHomepage]: https://www.ri.se/en/person/thiemo-voigt
 [MartinaBrachmannHomepage]: https://martinabr.github.io/
 [ChetnaSinghalHomepage]: https://www.ri.se/en/person/chetna-singhal
 [AnumKhurshidHomepage]: https://www.ri.se/anum-khurshid
