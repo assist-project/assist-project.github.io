@@ -9,7 +9,7 @@ permalink: /presentations/
 
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
-|21/11/2022    | Zoom                                            | Presentation at CyberNode working group for IoT | [Fuzzing presentation](presentations/cybernode-assist-fuzzing-221121.pdf) |
+|21/11/2022    | Zoom                                            | [Presentation on fuzzing](presentations/cybernode-assist-fuzzing-221121.pdf) at CyberNode working group for IoT |
 |16/11/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
 |17/05/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
 
