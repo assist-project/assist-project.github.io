@@ -9,7 +9,26 @@ permalink: /events/
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
 |21/11/2022    | Zoom                                                | Presentation at CyberNode working group for IoT |
-|16/11/2022    | Room 105150 Ångström building, Uppsala University                   |  aSSIsT Project meeting |
+|16/11/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
+|17/05/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
+
+
+### 2021
+
+| Date          | Location                                   | Topic                                                        |
+|-----------|--------------------------------------------|--------------------------------------------------------------|
+|18/11/2021    | Zoom                                    | aSSIsT Reference group meeting |
+|24/05/2021    | Zoom                                    | aSSIsT Reference group meeting |
+|29/04/2021    | Zoom                                    |  aSSIsT Project meeting |
+
+
+### 2020
+
+| Date          | Location                                   | Topic                                                        |
+|-----------|--------------------------------------------|--------------------------------------------------------------|
+|25/11/2020    | Zoom                                    |  aSSIsT Project meeting |
+|12/05/2020    | Zoom                                    | aSSIsT Reference group meeting |
+|20/04/2020    | Zoom                                    |  aSSIsT Project meeting |
 
 
 ### 2019
