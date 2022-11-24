@@ -42,6 +42,7 @@ permalink: /members/
 [HoomanAsadianHomepage]: http://www.it.uu.se/katalog/hooas351
 [SarbojitDasHomepage]: http://www.it.uu.se/katalog/sarda436
 [MagnusLangHomepage]: http://www.it.uu.se/katalog/magla262
+[FredrikTaquistHomepage]: http://www.it.uu.se/katalog/freta296
 [AndreasLöscherScholar]: https://scholar.google.com/citations?user=E4LXtaEAAAAJ
 [ShahidRazaHomepage]: https://www.ri.se/shahid-raza
 [LucaMottolaHomepage]: https://www.ri.se/luca-mottola
