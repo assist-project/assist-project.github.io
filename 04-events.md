@@ -2,13 +2,14 @@
 layout: page
 title: Events
 permalink: /events/
+permalink: /presentations/
 ---
 
 ### 2022
 
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
-|21/11/2022    | Zoom                                                | Presentation at CyberNode working group for IoT |
+|21/11/2022    | Zoom                                            | Presentation at CyberNode working group for IoT | [Fuzzing presentation](presentations/cybernode-assist-fuzzing-221121.pdf) |
 |16/11/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
 |17/05/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
 
@@ -17,6 +18,7 @@ permalink: /events/
 
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
+|02/12/2021    | Kista                                   | [Cybernode Networking Conference][CYBERNODE211202]: [Assist presentation](presentations/assist-cybernode-211202.pdf) |
 |18/11/2021    | Zoom                                    | aSSIsT Reference group meeting |
 |24/05/2021    | Zoom                                    | aSSIsT Reference group meeting |
 |29/04/2021    | Zoom                                    |  aSSIsT Project meeting |
@@ -56,3 +58,4 @@ permalink: /events/
 [AGENDA190429]: http://user.it.uu.se/~bengt/aSSIsT/190429-agenda.html
 [RISESECDAY2019]: https://app.bwz.se/ri/b/v?formresponse=46804&otype=60&sendmail=True&ucrc=4F5AB0232D
 [AGENDA191015]: http://user.it.uu.se/~bengt/aSSIsT/191015-agenda.html
+[CYBERNODE211202]: https://cybernode.se/cybernodens-samverkanskonferens-for-cybersakerhet-2021-2-december-i-kista-science-tower/

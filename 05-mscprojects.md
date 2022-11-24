@@ -4,9 +4,6 @@ title: Open Positions
 permalink: /positions/
 ---
 
-Open position (closing July 7)
-- [PostDoc position][PostDocPosition] in Software Security at Uppsala University
-
 M.Sc. projects
 - [Testing and Fuzzing of Security Protocols][TestingFuzzing], at Uppsala University
 
