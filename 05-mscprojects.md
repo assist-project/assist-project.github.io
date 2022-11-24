@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Positions
+title: M.Sc. Projects
 permalink: /positions/
 ---
 
