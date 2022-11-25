@@ -10,7 +10,7 @@ permalink: /presentations/
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
 |21/11/2022    | Zoom                                            | [Presentation on fuzzing](presentations/cybernode-assist-fuzzing-221121.pdf) at CyberNode working group for IoT |
-|16/11/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
+|16/11/2022    | Room 105150 Ångström building                   |  [aSSIsT Project meeting](events/221116-agenda.html)  | |
 |17/05/2022    | Room 105150 Ångström building                   |  aSSIsT Project meeting |
 
 
@@ -37,11 +37,11 @@ permalink: /presentations/
 
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
-|15/10/2019    | RISE SICS                                                | [aSSIsT Project meeting][AGENDA191015] |
+|15/10/2019    | RISE SICS                                                | [aSSIsT Project meeting](events/191015-agenda.html)  |
 |02/10/2019    | Färögatan 33, 164 51 Kista                               | [RISE SICS and Ericsson Security Day 2019][RISESECDAY2019]   |
 |16/06/2019    | KTH CAMPUS                                               | [SSIoT 2019 - IEEE EuroS&P Workshop on Software Security for Internet of Things][SSIOT2019] |
 |24/05/2019    | RISE SICS                                                | aSSIsT Reference group meeting |
-|29/04/2019    | Room 4:306, ITC, Uppsala University                      | [aSSIsT Project meeting][AGENDA190429] |
+|29/04/2019    | Room 4:306, ITC, Uppsala University                      | [aSSIsT Project meeting](events/190429-agenda.html) |
 |27-30/01/2019 | Ruhr University Bochum, Technical University Dortmund    | Research meeting for arranging future collaboration   |
 
 
