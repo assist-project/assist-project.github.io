@@ -14,7 +14,7 @@ permalink: /publications/
 
 ### 2022
 
-- Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12)
+- Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
