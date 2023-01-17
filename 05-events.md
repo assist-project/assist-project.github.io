@@ -5,6 +5,12 @@ permalink: /events/
 permalink: /presentations/
 ---
 
+### 2023
+
+| Date          | Location                                   | Topic                                                        |
+|-----------|--------------------------------------------|--------------------------------------------------------------|
+|17/01/2023    | Kista                                            | aSSIsT fuzzing presentation at RISE IoT Day |
+
 ### 2022
 
 | Date          | Location                                   | Topic                                                        |
