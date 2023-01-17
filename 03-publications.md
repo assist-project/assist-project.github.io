@@ -18,7 +18,7 @@ permalink: /publications/
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
-- Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022)_, pages ???-???, October 2022. ACM. ([DOI](https://doi.org/10.1145/3551349.3556946), [PDF](papers/So-Many-Fuzzers@ASE-22.pdf), [Slides](files/So-Many-Slides@ASE-22.pdf), [Artifact Repository][So-Many-Fuzzers-Artifact])
+- Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE22)_, article 95, 12 pages, October 2022. ACM. ([DOI](https://doi.org/10.1145/3551349.3556946), [PDF](papers/So-Many-Fuzzers@ASE-22.pdf), [Slides](files/So-Many-Slides@ASE-22.pdf), [Artifact Repository][So-Many-Fuzzers-Artifact])
 
   [So-Many-Fuzzers-Artifact]: https://github.com/assist-project/so-many-fuzzers-artifact
 
