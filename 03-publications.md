@@ -10,7 +10,7 @@ permalink: /publications/
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
-- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, Number 202952, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
+- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
 
 ### 2022
 
