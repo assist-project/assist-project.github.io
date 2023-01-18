@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2023
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. To appear.
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. To appear.
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Accepted. To appear. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
@@ -32,7 +32,7 @@ permalink: /publications/
 
   [ICST-22-replication-material]: https://doi.org/10.5281/zenodo.5929867
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåkvist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 456-458, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00051), [PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **DTLS-Fuzzer: A DTLS Protocol State Fuzzer**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 456-458, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00051), [PDF](papers/DTLS-Fuzzer@ICST-22.pdf), [Demo Video][DemoVideo@ICST22])
 
   [DemoVideo@ICST22]: https://youtu.be/KtEpwYC-f9M
 
