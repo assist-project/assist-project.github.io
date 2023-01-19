@@ -18,6 +18,8 @@ permalink: /publications/
  
 - Niels Hokke, Suryansh Sharma, Venkatesha Prasad, Luca Mottola, Sujay Narayana, Vijay Rao, and Nikos Kouvelas. **RF Information Harvesting for Medium Access in Event-driven Batteryless Sensing**. _21st IEEE International Conference on Information Processing in Sensor Networks (IPSN)_, May 2022. ([DOI](https://doi.org/10.1109/IPSN54338.2022.00037))
 
+- Mikhail Afanasov, Naveed Anwar Bhatti, Koustabh Dolui, and Luca Mottola. **Embedded Sensing through Energy Harvesting at the Mithraeum of Circus Maximus**. _Chapter in “Il Mitreo del Circo Massimo: Studio Preliminare di un Monumento Inedito tra Archeologia, Conservazione e Fruizione”_. Federica Fontana ed Emanuela Murgia eds., EUT – Polymnia Archeologia, 2022.
+
 - Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
