@@ -14,12 +14,6 @@ permalink: /publications/
 
 ### 2022
 
-- Fulvio Bambusi, Francesco Cerizzi, Yamin Lee, and Luca Mottola. **The Case for Approximate Intermittent Computing**. _21st IEEE International Conference on Information Processing in Sensor Networks (IPSN)_, May 2022. ([DOI](https://doi.org/10.1109/IPSN54338.2022.00044))
- 
-- Niels Hokke, Suryansh Sharma, Venkatesha Prasad, Luca Mottola, Sujay Narayana, Vijay Rao, and Nikos Kouvelas. **RF Information Harvesting for Medium Access in Event-driven Batteryless Sensing**. _21st IEEE International Conference on Information Processing in Sensor Networks (IPSN)_, May 2022. ([DOI](https://doi.org/10.1109/IPSN54338.2022.00037))
-
-- Mikhail Afanasov, Naveed Anwar Bhatti, Koustabh Dolui, and Luca Mottola. **Embedded Sensing through Energy Harvesting at the Mithraeum of Circus Maximus**. _Chapter in “Il Mitreo del Circo Massimo: Studio Preliminare di un Monumento Inedito tra Archeologia, Conservazione e Fruizione”_. Federica Fontana ed Emanuela Murgia eds., EUT – Polymnia Archeologia, 2022.
-
 - Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
@@ -31,6 +25,12 @@ permalink: /publications/
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Kostis Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. Presentation at the _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides](files/klee2022-presentation.pdf))
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
+
+- Fulvio Bambusi, Francesco Cerizzi, Yamin Lee, and Luca Mottola. **The Case for Approximate Intermittent Computing**. _21st IEEE International Conference on Information Processing in Sensor Networks (IPSN)_, May 2022. ([DOI](https://doi.org/10.1109/IPSN54338.2022.00044))
+ 
+- Niels Hokke, Suryansh Sharma, Venkatesha Prasad, Luca Mottola, Sujay Narayana, Vijay Rao, and Nikos Kouvelas. **RF Information Harvesting for Medium Access in Event-driven Batteryless Sensing**. _21st IEEE International Conference on Information Processing in Sensor Networks (IPSN)_, May 2022. ([DOI](https://doi.org/10.1109/IPSN54338.2022.00037))
+
+- Mikhail Afanasov, Naveed Anwar Bhatti, Koustabh Dolui, and Luca Mottola. **Embedded Sensing through Energy Harvesting at the Mithraeum of Circus Maximus**. _Chapter in “Il Mitreo del Circo Massimo: Studio Preliminare di un Monumento Inedito tra Archeologia, Conservazione e Fruizione”_. Federica Fontana ed Emanuela Murgia eds., EUT – Polymnia Archeologia, 2022.
 
 -  Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
 
