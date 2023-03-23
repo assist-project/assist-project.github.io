@@ -8,9 +8,10 @@ permalink: /publications/
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
 
   [NDSS-2023-Info]: https://www.ndss-symposium.org/ndss-paper/automata-based-automated-detection-of-state-machine-bugs-in-protocol-implementations/
+  [NDSS-2023-DOI]: https://dx.doi.org/10.14722/ndss.2023.23068
   [NDSS-2023-PDF]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s68_paper.pdf
   [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
 
