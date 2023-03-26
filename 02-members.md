@@ -24,13 +24,13 @@ permalink: /members/
 - [Nicolas Tsiftes][NicolasTsiftesHomepage] (Senior Researcher) 
 - [Thiemo Voigt][ThiemoVoigtHomepage] (Senior Researcher) 
 - [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
-- [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student)
 
 ### Alumni
 - [Andreas Löscher][AndreasLöscherScholar] (Ph.D. Student, graduated)
 - [Martina Brachmann][MartinaBrachmannHomepage] (Post Doctoral Researcher)
 - Sileshi Demesie Yalew (Post Doctoral Researcher)
 - Niclas Finne (Researcher)
+- [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student, graduated)
 - [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
