@@ -12,6 +12,8 @@ permalink: /theses/
 
 ### M.Sc./B.Sc. Theses
 
+- Patrik Johansson. **Extending energy attack mitigation to multiple IoT devices**, Independent thesis Advanced level (professional degree), Uppsala University, Department of Information Technology, March 2023. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1745790), [Fulltext](http://www.diva-portal.org/smash/get/diva2:1745790/FULLTEXT01.pdf))
+
 - Hannah Emily Elisabeth Atmer. **Energy Attack Mitigation for Intermittent Computing Devices**, Independent thesis Advanced level (degree of Master), Uppsala University, Department of Information Technology, November 2022. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1710147), [Fulltext](http://www.diva-portal.org/smash/get/diva2:1710147/FULLTEXT01.pdf))
 
 - Arslan Hameed. **Battery-less IoT Devices: Energy Source Manipulation Attacks**, Independent thesis Advanced level (degree of Master), Uppsala University, Department of Information Technology, April 2022. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1651573), [Fulltext](http://www.diva-portal.org/smash/get/diva2:1651573/FULLTEXT01.pdf))
