@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2023
 
+- Konstantinos Sagonas and Thanasis Typaldos. **EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer**. _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)_, pages 1495-1498, July 2023. ([DOI](https://doi.org/10.1145/3597926.3604922), [PDF](papers/EDHOC-Fuzzer@ISTTA-23.pdf))
+
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
@@ -37,7 +39,7 @@ permalink: /publications/
 
 - Mikhail Afanasov, Naveed Anwar Bhatti, Koustabh Dolui, and Luca Mottola. **Embedded Sensing through Energy Harvesting at the Mithraeum of Circus Maximus**. _Chapter in “Il Mitreo del Circo Massimo: Studio Preliminare di un Monumento Inedito tra Archeologia, Conservazione e Fruizione”_. Federica Fontana ed Emanuela Murgia eds., EUT – Polymnia Archeologia, 2022.
 
--  Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 70-81, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00019), [PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
