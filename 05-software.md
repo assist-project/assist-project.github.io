@@ -6,6 +6,8 @@ permalink: /software/
 
 ### Software Testing Tools
 
+- [**EDHOC-Fuzzer**: Protocol State Machine Learner and Fuzzer for EDHOC Implementations](https://github.com/protocol-fuzzing/edhoc-fuzzer)
+
 - [**DTLS-Fuzzer**: Protocol State Machine Learner and Fuzzer for DTLS Implementations](https://github.com/assist-project/dtls-fuzzer)
 
 - [**Nidhugg**: Stateless Model Checking tool finding bugs caused by concurrency and relaxed memory consistency in C/pthread programs](https://github.com/nidhugg/nidhugg)
