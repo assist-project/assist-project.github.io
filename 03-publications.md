@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2023
 
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, October 2023. ([Preprint with Proofs](https://arxiv.org/abs/2307.15930))
+
 - Konstantinos Sagonas and Thanasis Typaldos. **EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer**. _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)_, pages 1495-1498, July 2023. ([DOI](https://doi.org/10.1145/3597926.3604922), [PDF](papers/EDHOC-Fuzzer@ISTTA-23.pdf))
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
@@ -23,7 +25,7 @@ permalink: /publications/
 
 - Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
-- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
+- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](https://arxiv.org/abs/2208.09259))
 
 - Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE22)_, article 95, 12 pages, October 2022. ACM. ([DOI](https://doi.org/10.1145/3551349.3556946), [PDF](papers/So-Many-Fuzzers@ASE-22.pdf), [Slides](files/So-Many-Slides@ASE-22.pdf), [Artifact Repository][So-Many-Fuzzers-Artifact])
 
