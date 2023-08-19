@@ -10,6 +10,7 @@ permalink: /presentations/
 | Date          | Location                                   | Topic                                                        |
 |-----------|--------------------------------------------|--------------------------------------------------------------|
 |17/01/2023    | Kista                                            | aSSIsT fuzzing presentation at RISE IoT Day |
+|2-3/05/20223  | Noors slott                       |  aSSIsT Retreat/Project meeting |
 
 ### 2022
 
