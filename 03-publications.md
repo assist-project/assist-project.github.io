@@ -21,11 +21,19 @@ permalink: /publications/
 
 - Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
 
+- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. To appear.
+
 ### 2022
 
 - Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
+<<<<<<< Updated upstream
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](https://arxiv.org/abs/2208.09259))
+=======
+- A. Khurshid, R. Alsaaidi, M. Aslam, S. Raza. **EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme**. IEEE Access 10 (2022): 129932-129948.
+
+- Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
+>>>>>>> Stashed changes
 
 - Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE22)_, article 95, 12 pages, October 2022. ACM. ([DOI](https://doi.org/10.1145/3551349.3556946), [PDF](papers/So-Many-Fuzzers@ASE-22.pdf), [Slides](files/So-Many-Slides@ASE-22.pdf), [Artifact Repository][So-Many-Fuzzers-Artifact])
 
