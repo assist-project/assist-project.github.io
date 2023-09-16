@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### 2023
 
+- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. November 2023. To appear.
+
 - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, October 2023. ([Preprint with Proofs](https://arxiv.org/abs/2307.15930))
 
 - Konstantinos Sagonas and Thanasis Typaldos. **EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer**. _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)_, pages 1495-1498, July 2023. ([DOI](https://doi.org/10.1145/3597926.3604922), [PDF](papers/EDHOC-Fuzzer@ISTTA-23.pdf))
@@ -20,8 +22,6 @@ permalink: /publications/
   [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
 
 - Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
-
-- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. To appear.
 
 ### 2022
 
