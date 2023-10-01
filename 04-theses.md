@@ -11,6 +11,9 @@ permalink: /theses/
 - Andreas Löscher. **Targeted Property-Based Testing with Applications in Sensor Networks**. Ph.D. Thesis, Uppsala University, May 2018. ([Info](https://www.diva-portal.org/smash/record.jsf?pid=diva2:1195475), [Fulltext](https://www.diva-portal.org/smash/get/diva2:1195475/FULLTEXT01.pdf))
 
 ### M.Sc./B.Sc. Theses
+
+- Sabor Amini. **Using Requirement-Driven Symbolic Execution to Test Implementations of the CoAP and EDHOC Network Protocols**, Independent thesis Advanced level (professional degree), Uppsala University, Department of Information Technology, September 2023. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1800193), [Fulltext](https://www.diva-portal.org/smash/get/diva2:1800193/FULLTEXT01.pdf))
+
 - Robert Lasu. **Analysing SSH Clients Using Protocol State Fuzzing**, Independent thesis Basic level (degree of Bachelor), Uppsala University, Department of Information Technology, June 2023. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1795754), [Fulltext](https://www.diva-portal.org/smash/get/diva2:1795754/FULLTEXT01.pdf))
 
 - Patrik Johansson. **Extending energy attack mitigation to multiple IoT devices**, Independent thesis Advanced level (professional degree), Uppsala University, Department of Information Technology, March 2023. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1745790), [Fulltext](http://www.diva-portal.org/smash/get/diva2:1745790/FULLTEXT01.pdf))
