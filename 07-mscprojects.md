@@ -4,7 +4,6 @@ title: M.Sc. Projects
 permalink: /projects/
 ---
 
-M.Sc. projects
 - [RenodeFuzzing](files/renode-msc-project.pdf) at RISE
 - [Testing and Fuzzing of Security Protocols][TestingFuzzing], at Uppsala University
 
