@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2023
 
-- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. November 2023. To appear.
+- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. November 2023. To appear. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
 
 - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, pages 176-198, October 2023. ([DOI](https://doi.org/10.1007/978-3-031-45332-8_9), [Preprint with Proofs](https://arxiv.org/abs/2307.15930))
 
