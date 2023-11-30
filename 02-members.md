@@ -11,7 +11,6 @@ permalink: /members/
 - [Mohamed Faouzi Atig][AtigHomepage] (Senior Researcher)
 - [Paul Fiterau-Brostean][PaulFiterauHomepage] (Post Doctoral Researcher)
 - [Sandip Ghosal][SandipGhosalHomepage] (Post Doctoral Researcher)
-- [Rémi Parrot][RemiParrotHomepage] (Post Doctoral Researcher)
 - [Hooman Asadian][HoomanAsadianHomepage] (Ph.D. Student)
 - [Sarbojit Das][SarbojitDasHomepage] (Ph.D. Student)
 - [Magnus Lång][MagnusLangHomepage] (Ph.D. Student)
@@ -31,6 +30,7 @@ permalink: /members/
 - Sileshi Demesie Yalew (Post Doctoral Researcher)
 - Niclas Finne (Researcher)
 - [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student, graduated)
+- [Rémi Parrot][RemiParrotHomepage] (Post Doctoral Researcher)
 - [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
