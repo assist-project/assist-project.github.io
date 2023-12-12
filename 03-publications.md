@@ -8,7 +8,7 @@ permalink: /publications/
 
 - Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. LNCS 14323, pp. 126-144. November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
 
-- Chetna Singhal, Thiemo Voigt, and Luca Mottola. **Application-aware Energy Attack Mitigation in the Battery-less Internet of Things**. _International ACM Symposium on Mobility Management and Wireless Access (MobiWac 2023)_. New York, NY, USA, pages 35–43. ([DOI](https://doi.org/10.1145/3616390.3618281))
+- Chetna Singhal, Thiemo Voigt, and Luca Mottola. **Application-aware Energy Attack Mitigation in the Battery-less Internet of Things**. _International ACM Symposium on Mobility Management and Wireless Access (MobiWac 2023)_, pages 35–43, October/November 2023. ([DOI](https://doi.org/10.1145/3616390.3618281))
 
 - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, pages 176-198, October 2023. ([DOI](https://doi.org/10.1007/978-3-031-45332-8_9), [Preprint with Proofs](https://arxiv.org/abs/2307.15930))
 
