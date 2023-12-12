@@ -92,7 +92,7 @@ permalink: /publications/
 
   [PLDI20]: https://doi.org/10.1145/3385412.3386034
 
-- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [Video][Video@ATVA20])
+- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [PDF](papers/ParallelSMC@ATVA-20.pdf), [Video][Video@ATVA20])
 
   [ATVA20]: https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_21
   [Video@ATVA20]: https://drive.google.com/file/d/1uSjkiqcZ6qY8fb0XzOgsxRdXJG1vQupG/view?usp=sharing
