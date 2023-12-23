@@ -83,7 +83,7 @@ permalink: /publications/
   [asad/enssys20secure]: https://mottola.faculty.polimi.it/papers/asad20security.pdf "Preprint"
   [Video@ENSSYS20a]: https://youtu.be/mrJnxQBEgr0
 
-- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, pages 253-269, November 2020. ACM. ([DOI][SLE20], [Video][Video@SLE20])
+- Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, and Bernd Fischer. **Grammar-Based Testing for Little Languages**. _13th ACM SIGPLAN International Conference on Software Language Engineering (SLE '20)_, pages 253-269, November 2020. ACM. ([DOI][SLE20], [PDF](papers/LittleLanguages.pdf), [Video][Video@SLE20])
 
   [SLE20]: https://doi.org/10.1145/3426425.3426946
   [Video@SLE20]: https://youtu.be/rp1LSHt6Sm4
