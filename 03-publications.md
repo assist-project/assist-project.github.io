@@ -6,15 +6,15 @@ permalink: /publications/
 
 ### 2024
 
-- Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. To appear ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
+- Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
 
 ### 2023
 
-- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. LNCS 14323, pp. 126-144. November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
+- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. Volume 14323 in LNCS, pages 126-144, November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
 
 - Chetna Singhal, Thiemo Voigt, and Luca Mottola. **Application-aware Energy Attack Mitigation in the Battery-less Internet of Things**. _International ACM Symposium on Mobility Management and Wireless Access (MobiWac 2023)_, pages 35–43, October/November 2023. ([DOI](https://doi.org/10.1145/3616390.3618281))
 
-- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, pages 176-198, October 2023. ([DOI](https://doi.org/10.1007/978-3-031-45332-8_9), [Preprint with Proofs](https://arxiv.org/abs/2307.15930))
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Frederik Meyer Bønneland, Sarbojit Das, Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Tailoring Stateless Model Checking for Event-Driven Multi-Threaded Programs**. _21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)_, Volume 14216 in LNCS, pages 176-198, October 2023. ([DOI](https://doi.org/10.1007/978-3-031-45332-8_9), [Preprint with Proofs](https://arxiv.org/abs/2307.15930))
 
 - Konstantinos Sagonas and Thanasis Typaldos. **EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer**. _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)_, pages 1495-1498, July 2023. ([DOI](https://doi.org/10.1145/3597926.3604922), [PDF](papers/EDHOC-Fuzzer@ISTTA-23.pdf))
 
@@ -96,7 +96,7 @@ permalink: /publications/
 
   [PLDI20]: https://doi.org/10.1145/3385412.3386034
 
-- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, pages 337-393, Volume 12302 in LNCS, October 2020. Springer. ([DOI][ATVA20], [PDF](papers/ParallelSMC@ATVA-20.pdf), [Video][Video@ATVA20])
+- Magnus Lång and Konstantinos Sagonas. **Parallel Graph-Based Stateless Model Checking**. _International Symposium on Automated Technology for Verification and Analysis (ATVA 2020)_, Volume 12302 in LNCS, pages 337-393, October 2020. Springer. ([DOI][ATVA20], [PDF](papers/ParallelSMC@ATVA-20.pdf), [Video][Video@ATVA20])
 
   [ATVA20]: https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_21
   [Video@ATVA20]: https://drive.google.com/file/d/1uSjkiqcZ6qY8fb0XzOgsxRdXJG1vQupG/view?usp=sharing
