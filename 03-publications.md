@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2024
+
+- Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. To appear ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
+
 ### 2023
 
 - Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. LNCS 14323, pp. 126-144. November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
