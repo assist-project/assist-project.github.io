@@ -22,7 +22,9 @@ permalink: /members/
 - [Luca Mottola][LucaMottolaHomepage] (Principal Investigator) 
 - [Nicolas Tsiftes][NicolasTsiftesHomepage] (Senior Researcher) 
 - [Thiemo Voigt][ThiemoVoigtHomepage] (Senior Researcher) 
-- [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
+- Asrin Abdullahi (Ph.D. Student)
+- Rikard Höglund (Ph.D. Student)
+- Abin Yusuf Stalin (M.Sc. Student)
 
 ### Alumni
 - [Andreas Löscher][AndreasLöscherScholar] (Ph.D. Student, graduated)
@@ -32,6 +34,7 @@ permalink: /members/
 - [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student, graduated)
 - [Rémi Parrot][RemiParrotHomepage] (Post Doctoral Researcher)
 - [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
+- [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
