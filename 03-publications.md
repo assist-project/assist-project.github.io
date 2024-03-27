@@ -8,7 +8,7 @@ permalink: /publications/
 
 - Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
 
-- Anum Khurshid, Mudassar Aslam, Simon Bouget, and Shahid Raza. **TruCerT: trusted certification of IoT devices using hardware-based root-of-trust **. _International Journal of Internet of Things and Cyber-Assurance_. To appear. ([DOI](https://dx.doi.org/10.1504/IJITCA.2023.10059641))
+- Anum Khurshid, Mudassar Aslam, Simon Bouget, and Shahid Raza. **TruCerT: Trusted certification of IoT devices using hardware-based root-of-trust**. _International Journal of Internet of Things and Cyber-Assurance_. To appear. ([DOI](https://dx.doi.org/10.1504/IJITCA.2023.10059641))
 
 ### 2023
 
@@ -43,7 +43,7 @@ permalink: /publications/
 
   [So-Many-Fuzzers-Artifact]: https://github.com/assist-project/so-many-fuzzers-artifact
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Kostis Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. Presentation at the _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides](files/klee2022-presentation.pdf))
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. Presentation at the _3rd International KLEE Workshop on Symbolic Execution_, September 2022. ([Slides](files/klee2022-presentation.pdf))
 
 - George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, and Nicolas Tsiftes. **The Contiki-NG open source operating system for next generation IoT devices**. _SoftwareX_. Vol 18, June 2022. ([DOI](https://doi.org/10.1016/j.softx.2022.101089))
 
@@ -53,7 +53,7 @@ permalink: /publications/
 
 - Mikhail Afanasov, Naveed Anwar Bhatti, Koustabh Dolui, and Luca Mottola. **Embedded Sensing through Energy Harvesting at the Mithraeum of Circus Maximus**. _Chapter in “Il Mitreo del Circo Massimo: Studio Preliminare di un Monumento Inedito tra Archeologia, Conservazione e Fruizione”_. Federica Fontana ed Emanuela Murgia eds., EUT – Polymnia Archeologia, 2022.
 
-- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, and Shahid Raza. **TEE-Watchdog: Mitigating Unauthorized Activities within Trusted Execution Environments in ARM-Based Low-Power IoT Devices**. _Security and Communication Networks_. May 2022. ([DOI](https://doi.org/10.1155/2022/8033799))
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Applying Symbolic Execution to Test Implementations of a Network Protocol Against its Specification**. _15th IEEE International Conference on Software Testing, Verification and Validation (ICST 2022)_, pages 70-81, April 2022. ([DOI](https://doi.org/10.1109/ICST53961.2022.00019), [PDF](papers/ApplyingSymExec@ICST-22.pdf), [Replication Material][ICST-22-replication-material])
 
@@ -72,7 +72,7 @@ permalink: /publications/
 
 ### 2020
 
-- Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, and Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_, November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20Teaser], [Talk Video][Video@SENSYS20Talk])
+- Mikhail Afanasov, Naveed Bhatti, Dennis Campagna, Giacomo Caslini, Fabio Massimo Centonze, Koustabh Dolui, Andrea Maioli, Erica Barone, Muhammad Hamad Alizai, Junaid Haroon Siddiqui, and Luca Mottola. **Battery-less Zero-maintenance Embedded Sensing at the Mithraeum of Circus Maximus.** _18th ACM International Conference on Embedded Networked Sensor Systems (SENSYS)_, November 2020. ([PDF][afanasov/sensys20deployment], [Teaser Video][Video@SENSYS20Teaser], [Talk Video][Video@SENSYS20Talk])
 
   [afanasov/sensys20deployment]: https://mottola.faculty.polimi.it/papers/afanasov20batteryless.pdf "Preprint"
   [Video@SENSYS20Teaser]: https://youtu.be/RpKsXLTlnxU
