@@ -8,6 +8,8 @@ permalink: /publications/
 
 - Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
 
+- Anum Khurshid, Mudassar Aslam, Simon Bouget, and Shahid Raza. **TruCerT: trusted certification of IoT devices using hardware-based root-of-trust **. _International Journal of Internet of Things and Cyber-Assurance_. To appear. ([DOI](https://dx.doi.org/10.1504/IJITCA.2023.10059641))
+
 ### 2023
 
 - Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. Volume 14323 in LNCS, pages 126-144, November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
@@ -18,7 +20,7 @@ permalink: /publications/
 
 - Konstantinos Sagonas and Thanasis Typaldos. **EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer**. _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)_, pages 1495-1498, July 2023. ([DOI](https://doi.org/10.1145/3597926.3604922), [PDF](papers/EDHOC-Fuzzer@ISTTA-23.pdf))
 
-- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
+- Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, and Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
 
@@ -27,13 +29,13 @@ permalink: /publications/
   [NDSS-2023-PDF]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s68_paper.pdf
   [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
 
-- Anum Khurshid, Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
+- Anum Khurshid and Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
 
 ### 2022
 
-- Sandip Ghosal, R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
+- Sandip Ghosal and R. K. Shyamasundar. **Preventing Privacy-Violating Information Flows in JavaScript Applications Using Dynamic Labelling**. _18th International Conference on Information Systems Security (ICISS 2022)_, pages 202-219, December 2022. ([DOI](https://doi.org/10.1007/978-3-031-23690-7_12))
 
-- A. Khurshid, R. Alsaaidi, M. Aslam, S. Raza. **EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme**. IEEE Access 10 (2022): 129932-129948.
+- Anum Khurshid, R. Alsaaidi, Mudassar Aslam, and Shahid Raza. **EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme**. IEEE Access 10 (2022): 129932-129948.
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
