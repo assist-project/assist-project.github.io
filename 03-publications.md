@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### 2024
 
-- Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. April 2024. ([Preprint with Proofs](https://arxiv.org/abs/2401.14324))
+- Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. Volume 14571 in LNCS, pages 87-108, April 2024. ([DOI](https://doi.org/10.1007/978-3-031-57249-4_5), [Preprint with Proofs](https://arxiv.org/abs/2401.14324), [Artifact][TACAS-2024-Artifact])
+
+  [TACAS-2024-Artifact]: https://doi.org/10.5281/zenodo.10442556
 
 - Anum Khurshid, Mudassar Aslam, Simon Bouget, and Shahid Raza. **TruCerT: Trusted certification of IoT devices using hardware-based root-of-trust**. _International Journal of Internet of Things and Cyber-Assurance_. To appear. ([DOI](https://dx.doi.org/10.1504/IJITCA.2023.10059641))
 
