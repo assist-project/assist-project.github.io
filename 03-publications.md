@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2024
 
-- Luca Mottola, Arslan Hameed, and Thiemo Voigt. **Energy Attacks in the Battery-less Internet of Things: Directions for the Future**. _17th European Workshop on Systems Security (EUROSEC – colocated with ACM EUROSYS)_. Athens (Greece), April 2024.
+- Luca Mottola, Arslan Hameed, and Thiemo Voigt. **Energy Attacks in the Battery-less Internet of Things: Directions for the Future**. _17th European Workshop on Systems Security (EUROSEC – colocated with ACM EUROSYS)_. Athens (Greece), April 2024. ([DOI](https://dl.acm.org/doi/10.1145/3642974.3652283))
 
 - Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. Volume 14571 in LNCS, pages 87-108, April 2024. ([DOI](https://doi.org/10.1007/978-3-031-57249-4_5), [Preprint with Proofs](https://arxiv.org/abs/2401.14324), [Artifact][TACAS-2024-Artifact])
 
