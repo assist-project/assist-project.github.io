@@ -6,9 +6,17 @@ permalink: /publications/
 
 ### 2024
 
-- Luca Mottola, Arslan Hameed, and Thiemo Voigt. **Energy Attacks in the Battery-less Internet of Things: Directions for the Future**. _17th European Workshop on Systems Security (EUROSEC – colocated with ACM EUROSYS)_. Athens (Greece), April 2024. ([DOI](https://dl.acm.org/doi/10.1145/3642974.3652283))
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Monitor-based Testing of Network Protocol Implementations Using Symbolic Execution**, _International Conference on Availability, Reliability and Security (ARES 2024)_, July/August 2024, ([DOI](https://doi.org/10.1145/3664476.3664521), [Artifact][ARES-2024-Artifact])
 
-- Saad Ahmed, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. **The Internet of Batteryless Things**. _In Communications of the ACM_. March 2024. ([DOI](https://dl.acm.org/doi/10.1145/3624718))
+  [ARES-2024-Artifact]: https://doi.org/10.5281/zenodo.11945614
+
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Sarbojit Das, Bengt Jonsson, and Konstantinos Sagonas. **Parsimonious Optimal Dynamic Parial Order Reduction**, _36th International Conference on Computer Aided Verification (CAV 2024)_, Volume 14682 in LNCS, pages 19-43, July 2023. ([DOI](https://doi.org/10.1007/978-3-031-65630-9_2), [Preprint with Proofs](https://doi.org/10.48550/arXiv.2405.11128), [Artifact][CAV-2024-Artifact])
+
+  [CAV-2024-Artifact]: https://doi.org/10.5281/zenodo.11001033
+
+- Luca Mottola, Arslan Hameed, and Thiemo Voigt. **Energy Attacks in the Battery-less Internet of Things: Directions for the Future**. _EuroSec'24: Proceedings of the 17th European Workshop on Systems Security_, pages 29-36, April 2024. ([DOI](https://dl.acm.org/doi/10.1145/3642974.3652283))
+
+- Saad Ahmed, Bashima Islam, Kasim Sinan Yildirim, Marco Zimmerling, Przemysław Pawełczak, Muhammad Hamad Alizai, Brandon Lucia, Luca Mottola, Jacob Sorber, and Josiah Hester. **The Internet of Batteryless Things**. _Communications of the ACM_, Volume 67, Issue 3, pages 64-73, March 2024. ([DOI](https://dl.acm.org/doi/10.1145/3624718))
 
 - Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. Volume 14571 in LNCS, pages 87-108, April 2024. ([DOI](https://doi.org/10.1007/978-3-031-57249-4_5), [Preprint with Proofs](https://arxiv.org/abs/2401.14324), [Artifact][TACAS-2024-Artifact])
 
