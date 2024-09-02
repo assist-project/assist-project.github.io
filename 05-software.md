@@ -14,7 +14,17 @@ permalink: /software/
 
 - [**PropEr**: Property-Based Testing tool including support for Targeted Property-Based Testing](https://github.com/proper-testing/proper)
 
+- [**SMBugFinder**: Automata-based State Machine Bug Finder for Network Protocol Implementations](https://github.com/assist-project/state-machine-bug-finder)
+
 ### Software Artifacts
+
+- [Artifact for the ARES'24 paper _Monitor-based Testing of Network Protocol Implementations Using Symbolic Execution_](https://doi.org/10.5281/zenodo.11945614)
+
+- [Artifact for the CAV 2024 paper _Parsimonious Optimal Dynamic Parial Order Reduction_](https://doi.org/10.5281/zenodo.11001033)
+
+- [Artifact for the TACAS 2024 paper _Scalable Tree-based Register Automata Learning_](https://doi.org/10.5281/zenodo.10442556)
+
+- [Artifact for the NDSS'2023 paper _Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations_](https://zenodo.org/record/7129240)
 
 - [Artifact for the ASE 2022 paper _So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack_](https://github.com/assist-project/so-many-fuzzers-artifact)
 
