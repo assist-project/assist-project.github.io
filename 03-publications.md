@@ -6,7 +6,9 @@ permalink: /publications/
 
 ### 2024
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **SMBugFinder: An Automated Framework for Testing Protocol Implementations for State Machine Bugs**, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)_, pages 1866-1870, September 2024. ([DOI](https://doi.org/10.1145/3650212.3685310))
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **SMBugFinder: An Automated Framework for Testing Protocol Implementations for State Machine Bugs**, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)_, pages 1866-1870, September 2024. ([DOI](https://doi.org/10.1145/3650212.3685310), [Artifact][ISSTA-2024-Artifact])
+
+  [ISSTA-2024-Artifact]: https://doi.org/10.5281/zenodo.12665353
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Monitor-based Testing of Network Protocol Implementations Using Symbolic Execution**, _ARES '24: International Conference on Availability, Reliability and Security_, Article No. 17, pages 1-12, July/August 2024. ([DOI](https://doi.org/10.1145/3664476.3664521), [Artifact][ARES-2024-Artifact])
 

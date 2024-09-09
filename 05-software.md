@@ -18,6 +18,8 @@ permalink: /software/
 
 ### Software Artifacts
 
+- [Artifact for the ISSTA'24 paper _SMBugFinder: An Automated Framework for Testing Protocol Implementations for State Machine Bugs_](https://doi.org/10.5281/zenodo.12665353)
+
 - [Artifact for the ARES'24 paper _Monitor-based Testing of Network Protocol Implementations Using Symbolic Execution_](https://doi.org/10.5281/zenodo.11945614)
 
 - [Artifact for the CAV 2024 paper _Parsimonious Optimal Dynamic Parial Order Reduction_](https://doi.org/10.5281/zenodo.11001033)
