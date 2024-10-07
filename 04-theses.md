@@ -12,6 +12,8 @@ permalink: /theses/
 
 ### M.Sc./B.Sc. Theses
 
+- Linus Olofsson. **Protocol State Fuzzing of EDHOC Implementations Using Register Automata Learning**, Independent thesis Advanced level (professional degree), Uppsala University, Department of Information Technology, October 2024. ([Info](https://uu.diva-portal.org/smash/record.jsf?pid=diva2:1903203), [Fulltext](https://www.diva-portal.org/smash/get/diva2:1903203/FULLTEXT01.pdf))
+
 - Nikolaos Georgiou. **Using ARM TrustZone for Secure Resource Monitoring of IoT Devices Running Contiki-NG**, Independent thesis Advanced level (degree of Master), KTH, School of Electrical Engineering and Computer Science (EECS), September 2023. ([Info](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-342923), [Fulltext](http://www.diva-portal.org/smash/get/diva2:1833630/FULLTEXT01.pdf))
 
 - Sabor Amini. **Using Requirement-Driven Symbolic Execution to Test Implementations of the CoAP and EDHOC Network Protocols**, Independent thesis Advanced level (professional degree), Uppsala University, Department of Information Technology, September 2023. ([Info](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1800193), [Fulltext](https://www.diva-portal.org/smash/get/diva2:1800193/FULLTEXT01.pdf))
