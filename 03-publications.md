@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### 2024
 
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _IEEE Conference on Standards for Communication and Networking (CSCN 2024)_, November 2024. To appear.
+
+- Parosh Aziz Abdulla, Mohamed Faouzi Atig, Sarbojit Das, Bengt Jonsson, and Konstantinos Sagonas. **Trading Space for Simplicity in Stateless Model Checking**, _Real Time and Such_, Volume 15230 in LNCS, pages 79-97, October 2024. ([DOI](https://doi.org/10.1007/978-3-031-73751-0_8))
+
 - Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **SMBugFinder: An Automated Framework for Testing Protocol Implementations for State Machine Bugs**, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)_, pages 1866-1870, September 2024. ([DOI](https://doi.org/10.1145/3650212.3685310), [Artifact][ISSTA-2024-Artifact])
 
   [ISSTA-2024-Artifact]: https://doi.org/10.5281/zenodo.12665353
