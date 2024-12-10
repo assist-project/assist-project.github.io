@@ -23,7 +23,7 @@ permalink: /members/
 - [Thiemo Voigt][ThiemoVoigtHomepage] (Senior Researcher) 
 - Hendarmawan (Post Doctoral Researcher)
 - Asrin Abdullahi (Ph.D. Student)
-- Rikard Höglund (Ph.D. Student)
+- [Rikard Höglund][RikardhoglundHomepage] (Ph.D. Student)
 - Abin Yusuf Stalin (M.Sc. Student)
 
 ### Alumni
@@ -31,19 +31,19 @@ permalink: /members/
 - [Martina Brachmann][MartinaBrachmannHomepage] (Post Doctoral Researcher)
 - Sileshi Demesie Yalew (Post Doctoral Researcher)
 - Niclas Finne (Researcher)
-- [Sandip Ghosal][SandipGhosalHomepage] (Post Doctoral Researcher)
-- [Anum Khurshid][AnumKhurshidHomepage] (Ph.D. Student, graduated)
+- [Sandip Ghosal][SandipGhosalScholar] (Post Doctoral Researcher)
+- Anum Khurshid (Ph.D. Student, graduated)
 - [Rémi Parrot][RemiParrotHomepage] (Post Doctoral Researcher)
-- [Clement Poncelet][ClementPonceletHomepage] (Post Doctoral Researcher)
-- [Chetna Singhal]: [ChetnaSinghalHomepage] (Post Doctoral Researcher)
+- [Clement Poncelet][ClementPonceletScholar] (Post Doctoral Researcher)
+- [Chetna Singhal][ChetnaSinghalScholar] (Post Doctoral Researcher)
 
 [BengtJonssonHomepage]: http://user.it.uu.se/~bengt/
 [KostisSagonasHomepage]: http://user.it.uu.se/~kostis/
 [AtigHomepage]: https://www.it.uu.se/katalog/mohat117/atig
 [PaulFiterauHomepage]: http://www.it.uu.se/katalog/paufi492
-[SandipGhosalHomepage]: https://www.it.uu.se/katalog/sangh443
+[SandipGhosalScholar]: https://scholar.google.com/citations?user=E8WOPJIAAAAJ
 [RemiParrotHomepage]: https://www.it.uu.se/katalog/rempa665
-[ClementPonceletHomepage]: http://www.it.uu.se/katalog/clepo169
+[ClementPonceletScholar]: https://scholar.google.com/citations?user=Tijs8WwAAAAJ
 [HoomanAsadianHomepage]: http://www.it.uu.se/katalog/hooas351
 [SarbojitDasHomepage]: http://www.it.uu.se/katalog/sarda436
 [MagnusLangHomepage]: http://www.it.uu.se/katalog/magla262
@@ -54,5 +54,5 @@ permalink: /members/
 [NicolasTsiftesHomepage]: https://www.ri.se/nicolas-tsiftes
 [ThiemoVoigtHomepage]: https://www.ri.se/en/person/thiemo-voigt
 [MartinaBrachmannHomepage]: https://martinabr.github.io/
-[ChetnaSinghalHomepage]: https://www.ri.se/en/person/chetna-singhal
-[AnumKhurshidHomepage]: https://www.ri.se/anum-khurshid
+[ChetnaSinghalScholar]: https://scholar.google.com/citations?user=-IqcuxQAAAAJ
+[RikardHoglundHomepage]: https://www.ri.se/sv/person/rikard-hoglund
