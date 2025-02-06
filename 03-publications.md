@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2024
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _IEEE Conference on Standards for Communication and Networking (CSCN 2024)_, November 2024. ([Preprint](papers/TestingProtocolRequirements@CSCN-24.pdf))
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _2024 IEEE Conference on Standards for Communication and Networking (CSCN)_, pages 48-54, November 2024. ([DOI](https://doi.org/10.1109/CSCN63874.2024.10849709) [Preprint](papers/TestingProtocolRequirements@CSCN-24.pdf))
 
 - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Sarbojit Das, Bengt Jonsson, and Konstantinos Sagonas. **Trading Space for Simplicity in Stateless Model Checking**, _Real Time and Such_, Volume 15230 in LNCS, pages 79-97, October 2024. ([DOI](https://doi.org/10.1007/978-3-031-73751-0_8))
 
