@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2024
 
-- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _2024 IEEE Conference on Standards for Communication and Networking (CSCN)_, pages 48-54, November 2024. ([DOI](https://doi.org/10.1109/CSCN63874.2024.10849709) [Preprint](papers/TestingProtocolRequirements@CSCN-24.pdf))
+- Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _2024 IEEE Conference on Standards for Communication and Networking (CSCN)_, pages 48-54, November 2024. ([DOI](https://doi.org/10.1109/CSCN63874.2024.10849709), [Preprint](papers/TestingProtocolRequirements@CSCN-24.pdf))
 
 - Parosh Aziz Abdulla, Mohamed Faouzi Atig, Sarbojit Das, Bengt Jonsson, and Konstantinos Sagonas. **Trading Space for Simplicity in Stateless Model Checking**, _Real Time and Such_, Volume 15230 in LNCS, pages 79-97, October 2024. ([DOI](https://doi.org/10.1007/978-3-031-73751-0_8))
 
@@ -46,11 +46,12 @@ permalink: /publications/
 
 - Anum Khurshid, Sileshi D. Yalew, Mudassar Aslam, and Shahid Raza. **ShieLD: Shielding Cross-zone Communication within Limited-resourced IoT Devices running Vulnerable Software Stack**. _IEEE Transactions on Dependable and Secure Computing_. Volume 20, Issue 2, pages 1031-1047, March-April 2023. ([DOI](https://doi.org/10.1109/TDSC.2022.3147262))
 
-- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
+- Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Talk Video][NDSS-2023-Video], [Artifact][NDSS-2023-Artifact])
 
   [NDSS-2023-Info]: https://www.ndss-symposium.org/ndss-paper/automata-based-automated-detection-of-state-machine-bugs-in-protocol-implementations/
   [NDSS-2023-DOI]: https://dx.doi.org/10.14722/ndss.2023.23068
   [NDSS-2023-PDF]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s68_paper.pdf
+  [NDSS-2023-Video]: https://youtu.be/FzLFkyleLD8?si=gA1bhBaO1nCQbgO2
   [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
 
 - Anum Khurshid and Shahid Raza. **AutoCert: Automated TOCTOU-secure digital certification for IoT with combined authentication and assurance**. _Elsevier Computers and Security_. Volume 124, January 2023. ([DOI](https://doi.org/10.1016/j.cose.2022.102952))
