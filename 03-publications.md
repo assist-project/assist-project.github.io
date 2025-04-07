@@ -62,6 +62,10 @@ permalink: /publications/
 
 - Anum Khurshid, R. Alsaaidi, Mudassar Aslam, and Shahid Raza. **EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme**. IEEE Access 10 (2022): 129932-129948.
 
+- J\"ames M\'en\'etrey, Christian G\"ottel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza. **Attestation Mechanisms for Trusted Execution Environments Demystified**.
+   In D. M. Eyers and S. Voulgaris, editors, _Distributed Applications and Interoperable Systems: 22nd {IFIP} {WG} 6.1 International Conference, {DAIS} 2022_, Held as Part of the 17th International Federated
+  Conference on Distributed Computing Techniques, DisCoTec 2022, Lucca, Italy, June 13-17, 2022, volume 13272 in LNCS, pages 95-113. Springer, 2022. ([DOI](https://doi.org/10.1007/978-3-031-16092-9__7))
+
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
 
 - Clément Poncelet, Konstantinos Sagonas, and Nicolas Tsiftes. **So Many Fuzzers, So Little Time - Experience from Evaluating Fuzzers on the Contiki-NG Network (Hay)Stack**. _37th IEEE/ACM International Conference on Automated Software Engineering (ASE22)_, article 95, 12 pages, October 2022. ACM. ([DOI](https://doi.org/10.1145/3551349.3556946), [PDF](papers/So-Many-Fuzzers@ASE-22.pdf), [Slides](files/So-Many-Slides@ASE-22.pdf), [Artifact Repository][So-Many-Fuzzers-Artifact])
@@ -94,6 +98,8 @@ permalink: /publications/
 
   [maioli/ewsn21discovering]: https://mottola.faculty.polimi.it/papers/maioli21discovering.pdf "Preprint"
   [Video@EWSN21]: https://youtu.be/5s-RlFdFkY4
+
+- Andrea Maioli and Luca Mottola. **ALFRED: Virtual memory for intermittent computing.** _19th ACM Conference on Embedded Networked Sensor Systems_, pages 261--273, New York, USA, 2021. ACM. ([DOI](https://doi.org/10.1145/3485730.3485949))
 
 ### 2020
 
