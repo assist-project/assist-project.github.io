@@ -63,7 +63,7 @@ permalink: /publications/
 - Anum Khurshid, R. Alsaaidi, Mudassar Aslam, and Shahid Raza. **EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme**. IEEE Access 10 (2022): 129932-129948.
 
 - Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza. **Attestation Mechanisms for Trusted Execution Environments Demystified**.
-   In D. M. Eyers and S. Voulgaris, editors, _Distributed Applications and Interoperable Systems: 22nd {IFIP} {WG} 6.1 International Conference, {DAIS} 2022_, Held as Part of the 17th International Federated
+   In D. M. Eyers and S. Voulgaris, editors, _Distributed Applications and Interoperable Systems: 22nd IFIP WG 6.1 International Conference, (DAIS) 2022_, Part of the 17th International Federated
   Conference on Distributed Computing Techniques, DisCoTec 2022, Lucca, Italy, June 13-17, 2022, volume 13272 in LNCS, pages 95-113. Springer, 2022. ([DOI](https://doi.org/10.1007/978-3-031-16092-9__7))
 
 - Bengt Jonsson, Magnus Lång, and Konstantinos Sagonas. **Awaiting for Godot: Stateless Model Checking that Avoids Executions where Nothing Happens**. _Formal Methods in Computer-Aided Design (FMCAD 2022)_, pages 284-293, October 2022. ([DOI](https://doi.org/10.34727/2021/isbn.978-3-85448-053-2_35), [Preprint with Proofs](http://arxiv.org/abs/2208.09259))
