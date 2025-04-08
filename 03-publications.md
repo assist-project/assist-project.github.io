@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2025
+
+- Nicolas Tsiftes and Thiemo Voigt. **NESFuzzer: Stateful Fuzz Testing of IoT Network Stacks**, _The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN)_, September 2025. [Preprint](papers/NESFuzzer@EWSN-25.pdf)
+
 ### 2024
 
 - Hooman Asadian, Paul Fiterau-Brostean, Bengt Jonsson, and Konstantinos Sagonas. **Testing IoT Protocol Requirements Using Fuzzing and Symbolic Execution: Application to CoAP**, _2024 IEEE Conference on Standards for Communication and Networking (CSCN)_, pages 48-54, November 2024. ([DOI](https://doi.org/10.1109/CSCN63874.2024.10849709), [Preprint](papers/TestingProtocolRequirements@CSCN-24.pdf))
