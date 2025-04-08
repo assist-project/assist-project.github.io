@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### 2025
 
-- Nicolas Tsiftes and Thiemo Voigt. **NESFuzzer: Stateful Fuzz Testing of IoT Network Stacks**, _The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN)_, September 2025. [Preprint](papers/NESFuzzer@EWSN-25.pdf)
+- Nicolas Tsiftes and Thiemo Voigt. **NESFuzzer: Stateful Fuzz Testing of IoT Network Stacks**, _The 22nd International Conference on Embedded Wireless Systems and Networks (EWSN)_, September 2025. [PDF](papers/NESFuzzer@EWSN-25.pdf)
 
 ### 2024
 
